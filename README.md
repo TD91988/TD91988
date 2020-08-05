@@ -45,7 +45,7 @@
 <img align="left" alt="codechef" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/codechef.svg" />
 <img align="left" alt="powershell" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/powershell.svg" />
 
-<!-->
+<!--
 
 ![]()
 ![]()
