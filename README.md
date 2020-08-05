@@ -23,18 +23,34 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/python.svg" />
+<img align="left" alt="Python" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/python.svg" />
+<img align="left" alt="R" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/r.svg" />
+<img align="left" alt="Microsoft SQL Server" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/microsoftsqlserver.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/mysql.svg" />
+<img align="left" alt="PostGreSQL" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/postgresql.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/mongodb.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/visualstudiocode.svg" />
+<img align="left" alt="Tableau" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/tableau.svg" />
+<img align="left" alt="Power BI" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/powerbi.svg" />
+<img align="left" alt="html5" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/html5.svg" />
+<img align="left" alt="css3" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/css3.svg" />
+<img align="left" alt="Pandas" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/pandas.svg" />
+<img align="left" alt="TensorFlow" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/tensorflow.svg" />
+<img align="left" alt="Scipy" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/scipy.svg" />
+<img align="left" alt="Keras" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/keras.svg" />
+<img align="left" alt="Matplotlib" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/matplotlib.svg" />
+<img align="left" alt="Numpy" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/numpy-logo.svg" />
+<img align="left" alt="git" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/git.svg" />
+<img align="left" alt="github" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/github.svg" />
+<img align="left" alt="codechef" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/codechef.svg" />
+<img align="left" alt="powershell" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/powershell.svg" />
 
-![](https://github.com/TD91988/TD91988/blob/master/svg/python.svg)
-![](https://github.com/TD91988/TD91988/blob/master/svg/r.svg)
-![](https://github.com/TD91988/TD91988/blob/master/svg/microsoftsqlserver.svg)
-![](https://github.com/TD91988/TD91988/blob/master/svg/mysql.svg)
-![](https://github.com/TD91988/TD91988/blob/master/svg/postgresql.svg)
-![](https://github.com/TD91988/TD91988/blob/master/svg/mongodb.svg)
-![](https://github.com/TD91988/TD91988/blob/master/svg/visualstudiocode.svg)
-![](https://github.com/TD91988/TD91988/blob/master/svg/tableau.svg)
-![](https://github.com/TD91988/TD91988/blob/master/svg/powerbi.svg)
-![](https://github.com/TD91988/TD91988/blob/master/svg/html5.svg)
+<!-->
+
+![]()
+![]()
+![]()
+![]()
 ![](https://github.com/TD91988/TD91988/blob/master/svg/css3.svg)
 ![](https://github.com/TD91988/TD91988/blob/master/svg/pandas.svg)
 ![](https://github.com/TD91988/TD91988/blob/master/svg/tensorflow.svg)
@@ -48,6 +64,8 @@
 ![](https://github.com/TD91988/TD91988/blob/master/svg/powershell.svg)
 ![](https://github.com/TD91988/TD91988/blob/master/svg/python.svg)
 
+
+-->
 
 <b>NOTE:</b> Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github.
 
