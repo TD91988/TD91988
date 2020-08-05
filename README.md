@@ -46,11 +46,6 @@
 <img align="left" alt="powershell" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/powershell.svg" />
 
 
-
-<br />
-
-<b>NOTE:</b> Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github.
-
 <br />
 
 ### 📕 Latest Blog Posts
@@ -72,9 +67,10 @@
 [website]: https://tushardalvi.com/
 [linkedin]: https://linkedin.com/in/tusharsdalvi/
 
-<a href="https://github.com/TD91988/TD91988">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TD91988&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
 <a href="https://github.com/TD91988/TD91988">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TD91988&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+<a href="https://github.com/TD91988/TD91988">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TD91988&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
