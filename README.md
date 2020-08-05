@@ -32,13 +32,10 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/visualstudiocode.svg" />
 <img align="left" alt="Tableau" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/tableau.svg" />
 <img align="left" alt="Power BI" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/powerbi.svg" />
-<img align="left" alt="html5" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/html5.svg" />
-<img align="left" alt="css3" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/css3.svg" />
 <img align="left" alt="Pandas" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/pandas.svg" />
 <img align="left" alt="TensorFlow" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/tensorflow.svg" />
 <img align="left" alt="Scipy" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/scipy.svg" />
 <img align="left" alt="Keras" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/keras.svg" />
-<img align="left" alt="Matplotlib" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/matplotlib.svg" />
 <img align="left" alt="Numpy" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/numpy-logo.svg" />
 <img align="left" alt="git" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/git.svg" />
 <img align="left" alt="github" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/github.svg" />
