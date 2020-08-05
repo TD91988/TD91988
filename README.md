@@ -3,10 +3,10 @@
 ## Hi, My name is Tushar Dalvi, and I'm  a Data Analyst 🚀.
 ## i am from from India, currently in Dublin, Ireland. Beside's programming, I enjoy eating food and traveling.!
 
-- 🔭 I’m currently working on a Machine Learning and Data Analysis Projects!
+- 🔭 I’m currently working on a <b>Machine Learning</b> and <b>Data Analysis Projects</b>!
 - 🌱 I’m currently learning everything 🤣..
 - 👯 I’m looking to collaborate on Machine Learning and Data Analysis.
-- 🤔 I’m looking for help with AWS.
+- 🤔 I’m looking for help with <b>AWS</b>.
 - 💬 Ask me about anything, I am happy to help.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play Video Games.
@@ -47,16 +47,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Header](link)
-
-
-
-
-
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Google Colab](https://tushardalvi.com/colab/)
+- [Regression](https://tushardalvi.com/regression/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
