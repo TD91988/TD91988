@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/python.svg" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/python.svg" />
 
 ![](https://github.com/TD91988/TD91988/blob/master/svg/python.svg)
 ![](https://github.com/TD91988/TD91988/blob/master/svg/r.svg)
