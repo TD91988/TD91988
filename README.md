@@ -23,6 +23,8 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="", Height="30px", width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/python.svg" />]
+
 ![](https://github.com/TD91988/TD91988/blob/master/svg/python.svg)
 ![](https://github.com/TD91988/TD91988/blob/master/svg/r.svg)
 ![](https://github.com/TD91988/TD91988/blob/master/svg/microsoftsqlserver.svg)
