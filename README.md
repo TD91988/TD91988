@@ -1,6 +1,6 @@
-### Hello World! I'm tushar. 👋
+### Hello World! 👋
 
-## Hi, My name is Tushar Dalvi, and I'm  a Data Analyst 🚀.
+## My name is Tushar Dalvi, and I'm  a Data Analyst 🚀.
 ## i am from from India, currently in Dublin, Ireland. Beside's programming, I enjoy eating food and traveling.!
 
 - 🔭 I’m currently working on a <b>Machine Learning</b> and <b>Data Analysis Projects</b>!
