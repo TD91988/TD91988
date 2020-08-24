@@ -33,7 +33,7 @@
 <img align="left" alt="Tableau" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/tableau.svg" />
 <img align="left" alt="Power BI" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/powerbi.svg" />
 <img align="left" alt="Pandas" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/pandas.svg" />
-<img align="left" alt="TensorFlow" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/tensorflow.svg" />
+<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Scipy" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/scipy.svg" />
 <img align="left" alt="Keras" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/keras.svg" />
 <img align="left" alt="Numpy" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/numpy-logo.svg" />
