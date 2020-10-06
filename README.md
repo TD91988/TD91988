@@ -1,7 +1,11 @@
 ### Hello World! 👋
 
 ## My name is Tushar Dalvi, 
-## i am from from India, currently in Dublin, Ireland. Beside's programming, I enjoy eating food and traveling.!
+## currently in Dublin, Ireland. 
+## I have 5 years of experience in database development, as a data analyst, I have 3 years of experience
+## various tasks like data gathering, data management, governance and integrity, exploratory data analysis.
+## I have hands-on experience in DBMS concepts, I have used SQL for more than 5 years, also I have proven experience in designing and deployment of ETL, and Data warehouse using Kimball methodology. I used python for data gathering, and performing data analysis, using libraries like pandas, numpy, and used Tableau, Power BI for a Business intelligence, and visualization tool.
+## Beside's programming, I enjoy eating food and traveling.!
 
 - 🔭 I’m currently working on a <b>Machine Learning</b> and <b>Data Analysis Projects</b>!
 - 🌱 I’m currently learning everything 🤣..
