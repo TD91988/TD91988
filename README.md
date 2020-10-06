@@ -2,9 +2,9 @@
 
 ## My name is Tushar Dalvi, 
 ## currently in Dublin, Ireland. I have 5 years of experience in database development, as a data analyst, I have 3 years of experience. 
-## I have working experience in data gathering, data management, governance and integrity, exploratory data analysis, machine learning & deep learning modeling and model deployement. I have hands-on experience in DBMS concepts, 
-## I have used SQL for more than 5 years, also I have proven experience in designing and deployment of ETL, and Data warehouse. I used python for data gathering, and performing data analysis, using libraries like pandas, numpy, and used Tableau, Power BI for a Business intelligence, and visualization tool. 
-##Beside's programming, I enjoy eating food and traveling.!
+## I have working experience in data gathering, data management, governance and integrity, exploratory data analysis, machine learning & deep learning modeling and model deployement. 
+## I have hands-on experience in DBMS concepts, I have used SQL for more than 5 years, also I have proven experience in designing and deployment of ETL, and Data warehouse. I used python for data gathering, and performing data analysis, using libraries like pandas, numpy, and used Tableau, Power BI for a Business intelligence, and visualization tool. 
+## Beside's programming, I enjoy eating food and traveling.!
 
 - 🔭 I’m currently working on a <b>Machine Learning</b> and <b>Data Analysis Projects</b>!
 - 🌱 I’m currently learning everything 🤣..
