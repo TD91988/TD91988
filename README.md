@@ -27,11 +27,11 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="R" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/r.svg" />
-<img align="left" alt="Microsoft SQL Server" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/microsoftsqlserver.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/mysql.svg" />
-<img align="left" alt="PostGreSQL" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/postgresql.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/mongodb.svg" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="Microsoft SQL Server" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="PostGreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/visualstudiocode.svg" />
 <img align="left" alt="Tableau" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/tableau.svg" />
 <img align="left" alt="Power BI" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/powerbi.svg" />
