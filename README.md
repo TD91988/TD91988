@@ -33,7 +33,6 @@
 <img align="left" alt="PostGreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Tableau" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/tableau.svg" />
 <img align="left" alt="Tableau" width="26px" src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 <img align="left" alt="Power BI" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/powerbi.svg" />
 <img align="left" alt="Pandas" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/pandas.svg" />
