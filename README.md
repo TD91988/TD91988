@@ -42,8 +42,8 @@
 <img align="left" alt="Numpy" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/numpy-logo.svg" />
 <img align="left" alt="git" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/git.svg" />
 <img align="left" alt="github" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/github.svg" />
-<img align="left" alt="codechef" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/codechef.svg" />
-<img align="left" alt="powershell" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/powershell.svg" />
+<img align="left" alt="codechef" width="26px" src="https://avatars.githubusercontent.com/u/11960354?s=400&u=a77c97db3237e61ac0548a9d887f35c74c7e595e&v=4" />
+<img align="left" alt="powershell" width="26px" src="https://avatars.githubusercontent.com/u/11524380?s=200&v=4" />
 
 
 <br />
