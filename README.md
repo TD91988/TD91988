@@ -26,7 +26,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/python.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="R" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/r.svg" />
 <img align="left" alt="Microsoft SQL Server" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/microsoftsqlserver.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/TD91988/TD91988/blob/master/svg/mysql.svg" />
