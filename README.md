@@ -8,9 +8,8 @@
 - 🔭 I’m currently working on a <b>Machine Learning</b> and <b>Data Analysis Projects</b>!
 - 🌱 I’m currently learning everything 🤣..
 - 👯 I’m looking to collaborate on Machine Learning and Data Analysis.
-- 🤔 I’m looking for help with <b>AWS</b>.
 - 💬 Ask me about anything, I am happy to help.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play Video Games.
 
 
