@@ -2,7 +2,7 @@
 
 ### •	Strong 3 years of experience in Data Analytics, Machine Learning, Python script development.
 ### •	Awarded Master's degree in Data Analytics with solid skills in Machine Learning and statistical analysis.
-### •	Hands on experience in handling Numerical, Ordinal Data with statistical analysis and Machine learning model development and deployment.
+### •	Hands on experience in handling Numerical, Ordinal Data performing statistical analysis and Machine learning model development and deployment.
 ### •	Experienced in working with the Waterfall, Scrum environment and Agile method.
 ### •	Expert in taking project responsibilities starting from creating design documents to delivering a project.
 ### •	Proven analytical, communication skills and an excellent history of being a team player and a leader by being an effective communicator, motivator, promoter of quality    ###   standards and maintaining morale.
