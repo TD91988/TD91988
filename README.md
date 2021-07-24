@@ -1,8 +1,21 @@
 ### Hello World! 👋
 
-## My name is Tushar Dalvi, 
-## I have working experience in data gathering, data management, governance and integrity, exploratory data analysis, machine learning & deep learning modeling and model deployement. 
-## I have hands-on experience in DBMS concepts, I have used SQL to handle large dataset, also I have proven experience in designing and deployment of ETL, and Data warehouse. I used python for data gathering, and performing data analysis, using libraries like pandas, numpy, and used Tableau, Power BI for a Business intelligence, and visualization tool. 
+##•	Strong 3 years of experience in Data Analytics, Machine Learning, Python script development.
+##•	Awarded Master's degree in Data Analytics with solid skills in Machine Learning and statistical analysis.
+##•	Hands on experience in handling Numerical, Ordinal Data with statistical analysis and Machine learning model development and deployment.
+##•	Experienced in working with the Waterfall, Scrum environment and Agile method.
+##•	Expert in taking project responsibilities starting from creating design documents to delivering a project.
+##•	Proven analytical, communication skills and an excellent history of being a team player and a leader by being an effective communicator, motivator, promoter of quality    ## standards and maintaining morale.
+ 
+ Technology Skills:
+##•	Database: SQL/ MSBI Stacks: 3 years, MongoDB: 1 year.
+##•	Languages: Python: 2+ years, R Programming: 1 year.
+##•	Cloud Platform: google cloud platform: 1.5 years, Redshift Openstack cloud platform: 2 Years.
+##•	Visualization: Tableau: 2 Years, Power BI. Created visualization using different python libraries like matplotlib, seaborn.
+##•	Machine Learning Algo: SVM, KNN, Random Forest, Regression (Linear, logistic, Ridge, Lasso), Predictive Modeling, A/B Testing, Feature Engineering (Imputation, Binning, One ## Hot Encoding. Feature Split)
+##•	Others: SDLC and Project Management, Agile Methodology.
+
+ 
 ## Beside's programming, I enjoy eating food and traveling.!
 
 - 🔭 I’m currently working on a <b>Machine Learning</b> and <b>Data Analysis Projects</b>!
