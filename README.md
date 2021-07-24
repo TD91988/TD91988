@@ -7,7 +7,7 @@
 ### •	Expert in taking project responsibilities starting from creating design documents to delivering a project.
 ### •	Proven analytical, communication skills and an excellent history of being a team player and a leader by being an effective communicator, motivator, promoter of quality    ###   standards and maintaining morale.
  
-### Technology Skills:
+## Technology Skills:
 ### •	Database: SQL/ MSBI Stacks: 3 years, MongoDB: 1 year.
 ### •	Languages: Python: 2+ years, R Programming: 1 year.
 ### •	Cloud Platform: google cloud platform: 1.5 years, Redshift Openstack cloud platform: 2 Years.
