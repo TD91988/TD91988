@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-### •	Strong 3 years of experience in Data Analytics, Machine Learning, Python script development.
+### •	Strong 3+ years of experience in Data Analytics, Machine Learning, Python script development.
 ### •	Awarded Master's degree in Data Analytics with solid skills in Machine Learning and statistical analysis.
 ### •	Hands on experience in handling Numerical, Ordinal Data performing statistical analysis and Machine learning model development and deployment.
 ### •	Experienced in working with the Waterfall, Scrum environment and Agile method.
